@@ -1,2 +1,2 @@
 # Shor's Algorithm
-This repo contain the Qiskit code for Shor's algorithm.
+This repo contain Qiskit code for Shor's algorithm.
